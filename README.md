@@ -19,6 +19,35 @@
 
 - ⚡ Fun fact **"Oops! I’m so boring, even my code needs a nap!" 😴**
 
+
+### 📌 Pinned Projects
+
+- [**Travel Book**](https://github.com/Ubaidullah-Hasan/travel-book-client)  
+  Description: Welcome to the Travel Guide Book! This is a social share type platform where you can share your travel experience and guidelines. This system allows users to register, log in, create post, edit post, create delete and edit comments, and payment. Admin can manage users and seen summery of this site. The client is built using TypeScript, Next.js, and TanStack query. 
+
+  🔹 Tech Stack: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/), [Next.js](https://nextjs.org/), [Aamarpay](https://www.aamarpay.com/), [JWT](https://www.mongodb.com/).  
+  🔹 Key Features:  
+    - Feature 1: CRUD operation, Payment system, Premium membership
+    - Feature 2: Include update, edit, delete, post functionality.
+    - Feature 3: authentication, and authorization mechanisms usign JWT.
+
+  🔹 [Live Demo](https://travel-share-client.vercel.app/) | [Read More](https://github.com/Ubaidullah-Hasan/travel-book-client.git)
+
+- [**Car Wash Booking System**](https://github.com/Ubaidullah-Hasan/car_wash_booking_client)  
+  Welcome to the Car Wash Booking System! This system allows users to register, log in, and book car wash services. Admin users can manage services and slots for bookings. The client is built using TypeScript, React, and Redux.
+
+  🔹 Tech Stack: [React](https://reactjs.org/), [Redux](https://redux.js.org/), [Tailwind CSS](https://tailwindcss.com/), [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/), [Aamarpay](https://www.aamarpay.com/), [JWT](https://www.mongodb.com/).  
+  🔹 Key Features:  
+    - Feature 1: User registration and authentication.
+    - Feature 2: Role-based access control (admin and user roles).
+    - Feature 3: Booking, slots, and services management.
+    - Feature 4: Payment methods.
+
+  🔹 [Live Demo](https://car-wash-booking-client.vercel.app/) | [Read More](https://github.com/Ubaidullah-Hasan/car_wash_booking_client)
+
+
+  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hasan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hasan5" height="30" width="40" /></a>
