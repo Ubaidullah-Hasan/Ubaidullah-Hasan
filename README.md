@@ -33,3 +33,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubaidullah-hasan&show_icons=true&locale=en" alt="ubaidullah-hasan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidullah-hasan&" alt="ubaidullah-hasan" /></p>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ubaidullah-Hasan&show_icons=true&theme=radical)
+
+
+
+
+#### 🔥 Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ubaidullah-Hasan&theme=radical)](https://git.io/streak-stats)
+
+#### 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ubaidullah-Hasan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
