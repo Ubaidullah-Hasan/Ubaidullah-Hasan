@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **"Oops! I’m so boring, even my code needs a nap!" 😴**
 
+<hr>
 
 ### 📌 Pinned Projects
 
