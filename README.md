@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, Welcome to My GitHub!
+<h1 align="left">Hi 👋, Welcome to My GitHub!
 </h1>
-<p align="center">Hi there! I'm a Full-Stack MERN Developer passionate about building scalable and user-friendly web applications. Feel free to explore my repositories, fork projects, or connect with me. Let's collaborate and create something amazing together! 🚀</p>
+<p align="left">Hi there! I'm a Full-Stack MERN Developer passionate about building scalable and user-friendly web applications. Feel free to explore my repositories, fork projects, or connect with me. Let's collaborate and create something amazing together! 🚀</p>
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/DDJZ4qp/git-image.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ubaidullah-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidullah-hasan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidullah-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidullah-hasan" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
