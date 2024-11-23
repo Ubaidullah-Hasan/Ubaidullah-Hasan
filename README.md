@@ -46,6 +46,18 @@
 
   🔹 [Live Demo](https://car-wash-booking-client.vercel.app/) | [Read More](https://github.com/Ubaidullah-Hasan/car_wash_booking_client)
 
+
+  - [**GYMIX**](https://github.com/Ubaidullah-Hasan/fitness_accessories_client.git)  
+  Welcome to the Gymix fitness accessories shop! This shop allows users to choose GYM accessories, and book it. Everyone can manage products. The client is built using TypeScript, React, and Redux.
+
+  🔹 Tech Stack: [React](https://reactjs.org/), [Redux](https://redux.js.org/), [Tailwind CSS](https://tailwindcss.com/), [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/), [Mongoosejs](https://mongoosejs.com/), [Aamarpay](https://www.aamarpay.com/).  
+  🔹 Key Features:  
+    - Feature 1: CRUD operations for products and categories.
+    - Feature 2: Booking, and cart management.
+    - Feature 3: Error handling and input validation.
+
+  🔹 [Live Demo](https://fitness-accessories-client.vercel.app/) | [Read More](https://github.com/Ubaidullah-Hasan/fitness_accessories_client.git)
+
 <hr>
   
 
