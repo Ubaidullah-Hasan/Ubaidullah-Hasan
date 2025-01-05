@@ -4,7 +4,7 @@
 <p align="left">Hi there! I'm a Full-Stack MERN Developer passionate about building scalable and user-friendly web applications. Feel free to explore my repositories, fork projects, or connect with me. Let's collaborate and create something amazing together! 🚀</p>
 
 
-  <img  align="right" alt="Coding" width="400" src="https://i.ibb.co.com/DDJZ4qp/git-image.gif">
+  <img  align="right" alt="Coding" width="400" src="https://i.ibb.co.com/DDJZ4qp/git-image.gif" style="border-radius: 20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidullah-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidullah-hasan" /> </p>
 
